@@ -89,3 +89,30 @@ p {
 }
 
 /* Section - Work Guide */
+
+
+/*----  Section - News ...*/
+
+.news-link{
+  text-decoration: none;
+  font-family: 'Sans';
+  color: rgb(65, 74, 82);
+}
+
+header.header-news{
+  margin: 0 20px;
+}
+
+footer .news-leer {
+  float: left;
+
+}
+
+container footer.news-footer{
+  overflow: hidden;
+}
+
+footer img {
+  float: right;
+}
+
